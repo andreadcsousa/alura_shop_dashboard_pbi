@@ -31,5 +31,5 @@
 
 # :iphone: Layout Mobile
 
-<img src="./files/Screenshot_1.jpg" alt="" width="25%"> <img src="./files/Screenshot_2.jpg" alt="" width="25%"> <img src="./files/Screenshot_3.jpg" alt="" width="25%">
-<img src="./files/Screenshot_3.jpg" alt="" width="25%">
+<img src="./files/Screenshot_1.jpg" alt="" width="24%"> <img src="./files/Screenshot_2.jpg" alt="" width="24%"> <img src="./files/Screenshot_3.jpg" alt="" width="24%">
+<img src="./files/Screenshot_4.jpg" alt="" width="24%">
