@@ -23,7 +23,7 @@
 # :package: Recursos
 
 ### Excel
-<img src="./files/logo json.jpg" width="50%">
+<img src="./files/logo json.png" width="50%">
 
 # :art: Layout PC
 
